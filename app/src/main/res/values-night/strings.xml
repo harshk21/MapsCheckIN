@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps_checkin_app">Maps CheckIN App</string>
+    <string name="check_in">Check-In</string>
+    <string name="checkin_history">CheckIN History</string>
+    <string name="delete_all_check_in">Delete All Check-IN</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="time">Time</string>
+</resources>
